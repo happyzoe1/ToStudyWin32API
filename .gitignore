@@ -16,9 +16,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-*.obj
 
-# Windows Link Object
+
+# Windows Link Object And Exe file
+*.obj
+*.exe
 
 # =========================
 # Operating System Files
